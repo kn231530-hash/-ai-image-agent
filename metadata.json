@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix AI",
+  "description": "Mobile-first next-generation video synthesis and editing powerhouse with tactile cyber-minimalist studio controls and neural timeline generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
